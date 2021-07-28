@@ -1,0 +1,58 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+.main {
+  background-color: hsl(244, 38%, 16%);
+  margin: 9.375rem;
+  border-radius: 1rem;
+}
+.header{
+  color:hsl(277, 64%, 61%);
+}
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 5.625rem;
+  width: 50%;
+}
+
+img {
+  width: 26.875rem;
+  border-radius: 1rem;
+  position: absolute;
+  left: 677px;
+  top: 178px;
+}
+.word{
+  display: block;
+text-indent: 1rem;
+color:hsla(0, 0%, 100%, 0.6);
+}
+.points{
+  padding-left: 4.7rem;
+}
+h3 {
+  color: hsl(0, 0%, 100%);
+    font-famly: 'Montserrat', sans-serif;
+    display: inline-block;
+    text-align: right;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  width: 35%;
+  padding-left: 6rem;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color: hsla(0, 0%, 100%, 0.6);
+    font-famly: 'Montserrat', sans-serif;
+    display: inline-block;
+    padding-top: 2.3rem;
+
+}
+.last{
+padding-left: 5rem;
+}
